@@ -1,0 +1,26 @@
+_repo: Mit-ultok-a-kavehazban_72829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gábor, Andor
+    gutenberg_agent_id: '56824'
+    url: http://www.gutenberg.org/2009/agents/56824
+description: ''
+gutenberg_issued: '2024-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72829'
+language: hu
+pgterms:marc905: 20240129062944gbor
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bDick Manó, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mit ültök a kávéházban?
+url: http://www.gutenberg.org/ebooks/72829
