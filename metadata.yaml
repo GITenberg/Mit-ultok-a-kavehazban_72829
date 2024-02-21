@@ -1,11 +1,16 @@
 _repo: Mit-ultok-a-kavehazban_72829
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gábor, Andor
     gutenberg_agent_id: '56824'
     url: http://www.gutenberg.org/2009/agents/56824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72829#Mit-ultok-a-kavehazban
 gutenberg_issued: '2024-01-30'
 gutenberg_type: Text
 identifiers:
